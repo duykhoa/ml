@@ -1,0 +1,1 @@
+docker run -it -v /Users/kevin/Workspace/ml:/work javac HelloWorld.java
